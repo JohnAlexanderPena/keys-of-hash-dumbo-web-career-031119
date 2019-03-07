@@ -1,4 +1,4 @@
-require "pry"
+
 class Hash
   def keys_of(*argument)
     collect do |key, value| 
